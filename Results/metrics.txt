@@ -1,0 +1,11 @@
+Car Price Prediction Model Performance
+==================================================
+RMSE (Root Mean Squared Error): $2,035.52
+MAE (Mean Absolute Error): $1,431.56
+R² Score: 0.9070
+
+Interpretation:
+- On average, predictions are off by $1,431.56
+- The model explains 90.70% of the variance in car prices
+- Training set size: 143 samples
+- Test set size: 62 samples
