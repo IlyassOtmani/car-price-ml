@@ -258,4 +258,3 @@ This project demonstrates:
 - Based on automotive pricing analysis for market entry
 - Built with scikit-learn, Gradio, and GitHub Actions
 
->>>>>>> 96693c7 (Add project files, dataset, and trained model)
