@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# car-price-ml
-An end-to-end machine learning project for predicting car prices with automated CI/CD pipelines using GitHub Actions. Built for automotive market analysis and price estimation.
-=======
+
 *# 🚗 Car Price Prediction with CI/CD
 
 [![CI](https://github.com/IlyassOtmani/car-price-ml/workflows/Continuous%20Integration/badge.svg)](https://github.com/IlyassOtmani/car-price-ml/actions)
